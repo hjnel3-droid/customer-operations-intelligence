@@ -168,5 +168,5 @@ All data in this project is **fully simulated**. It was purpose-built to reflect
 ## Author
 
 **Jordan Nel** — Customer Relations & Insights Specialist | Power BI | SQL | Python  
-[LinkedIn](https://www.linkedin.com/in/jordan-nel3) · [GitHub](https://github.com/InsightswithJ)
+[LinkedIn](https://www.linkedin.com/in/jordan-nel3) · [GitHub](https://github.com/hjnel3-droid)
 
